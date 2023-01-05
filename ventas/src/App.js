@@ -15,7 +15,7 @@ function App() {
               <a href="#">About</a>
             </li>
             <li>
-              <a href="#">Service</a>
+              <a href="service.js">Service</a>
             </li>
             <li>
               <a href="#">Portfolio</a>
